@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+MODNet/
+data
+detectors/
+face-detection-pytorch/
+temp/
+tiltnet18.pkl
+utils/
