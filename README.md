@@ -6,7 +6,7 @@ Demostración preparada para la [I Jornada de IA en la FP](http://portal.edu.gva
 
 # Paso 1 - Entrenar TiltNet
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jamarju/demo_orla/blob/master/03_entrena_fastai.ipynb) y seguir las instrucciones de la primera celda del cuaderno.
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jamarju/demo_orla/blob/master/03_entrena_fastai.ipynb) y seguir las instrucciones de la primera celda del cuaderno.
 
 # Paso 2 - Generar la orla a partir de fotos enviadas por los alumnos
 
